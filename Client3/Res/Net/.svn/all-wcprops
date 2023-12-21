@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/Net
+END
+XSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/Net/XSocket.cpp
+END
+XSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/Net/XSocket.h
+END
+Msg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/Net/Msg.cpp
+END
+Msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/Net/Msg.h
+END

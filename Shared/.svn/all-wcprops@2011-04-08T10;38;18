@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/hblegion_hblegion/!svn/ver/1297/src/Shared
+END
+buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/hblegion_hblegion/!svn/ver/1222/src/Shared/buffer.h
+END
+Maths.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/hblegion_hblegion/!svn/ver/982/src/Shared/Maths.h
+END
+magicID.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/hblegion_hblegion/!svn/ver/1079/src/Shared/magicID.h
+END
+NetMessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hblegion_hblegion/!svn/ver/1297/src/Shared/NetMessages.h
+END
+lgnSvcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/hblegion_hblegion/!svn/ver/1238/src/Shared/lgnSvcs.h
+END
+maps.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/hblegion_hblegion/!svn/ver/1057/src/Shared/maps.h
+END
+items.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/hblegion_hblegion/!svn/ver/1269/src/Shared/items.h
+END
+npcType.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/hblegion_hblegion/!svn/ver/1286/src/Shared/npcType.h
+END
+Skilltypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/hblegion_hblegion/!svn/ver/194/src/Shared/Skilltypes.h
+END
+TypeDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/hblegion_hblegion/!svn/ver/1297/src/Shared/TypeDefs.h
+END
+buffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/hblegion_hblegion/!svn/ver/1222/src/Shared/buffer.cpp
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/hblegion_hblegion/!svn/ver/1273/src/Shared/version.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/hblegion_hblegion/!svn/ver/1297/src/Shared/common.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/UI
+END
+MouseInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/UI/MouseInterface.h
+END
+Winmain.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/UI/Winmain.h
+END
+DialogBox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hbred_redemption/!svn/ver/6/Source/Main/Client3/UI/DialogBox.cpp
+END
+MouseInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/UI/MouseInterface.cpp
+END
+Wmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/UI/Wmain.cpp
+END
+DialogBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/UI/DialogBox.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/item
+END
+BuildItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/item/BuildItem.cpp
+END
+Item.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/item/Item.cpp
+END
+ItemName.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/item/ItemName.cpp
+END
+BuildItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/item/BuildItem.h
+END
+Item.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/item/Item.h
+END
+ItemName.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/item/ItemName.h
+END

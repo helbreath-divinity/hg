@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/hblegion_hblegion/!svn/ver/445/src/Client3/UI
+END
+MouseInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hblegion_hblegion/!svn/ver/348/src/Client3/UI/MouseInterface.h
+END
+Winmain.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hblegion_hblegion/!svn/ver/109/src/Client3/UI/Winmain.h
+END
+MouseInterface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hblegion_hblegion/!svn/ver/348/src/Client3/UI/MouseInterface.cpp
+END
+Wmain.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hblegion_hblegion/!svn/ver/445/src/Client3/UI/Wmain.cpp
+END

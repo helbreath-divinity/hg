@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\Desktop\hblegion_hblegion\src\Pak Editor\Pak Editor\bin\Debug\Pak Editor.exe.config
+C:\Documents and Settings\Administrator\Desktop\hblegion_hblegion\src\Pak Editor\Pak Editor\bin\Debug\Pak Editor.exe
+C:\Documents and Settings\Administrator\Desktop\hblegion_hblegion\src\Pak Editor\Pak Editor\bin\Debug\Pak Editor.pdb
+C:\Documents and Settings\Administrator\Desktop\hblegion_hblegion\src\Pak Editor\Pak Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\hblegion_hblegion\src\Pak Editor\Pak Editor\obj\x86\Debug\Pak_Editor.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\hblegion_hblegion\src\Pak Editor\Pak Editor\obj\x86\Debug\Pak_Editor.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\hblegion_hblegion\src\Pak Editor\Pak Editor\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\Desktop\hblegion_hblegion\src\Pak Editor\Pak Editor\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\Desktop\hblegion_hblegion\src\Pak Editor\Pak Editor\obj\x86\Debug\Pak Editor.exe
+C:\Documents and Settings\Administrator\Desktop\hblegion_hblegion\src\Pak Editor\Pak Editor\obj\x86\Debug\Pak Editor.pdb

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char
+END
+CharInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/CharInfo.h
+END
+Skill.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/Skill.cpp
+END
+ActionID.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/ActionID.h
+END
+Magic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/Magic.cpp
+END
+Curse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/Curse.cpp
+END
+mail.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/mail.cpp
+END
+Skill.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/Skill.h
+END
+Guild.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/Guild.cpp
+END
+Magic.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/Magic.h
+END
+Curse.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/Curse.h
+END
+mail.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/mail.h
+END
+CharInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/CharInfo.cpp
+END
+Guild.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/Guild.h
+END
+DynamicObjectID.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hbred_redemption/!svn/ver/1/Source/Main/Client3/char/DynamicObjectID.h
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/hblegion_hblegion/!svn/ver/854/src/Client3/DirectX
+END
+DXC_dsound.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hblegion_hblegion/!svn/ver/109/src/Client3/DirectX/DXC_dsound.h
+END
+DXC_ddraw.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hblegion_hblegion/!svn/ver/851/src/Client3/DirectX/DXC_ddraw.cpp
+END
+Effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hblegion_hblegion/!svn/ver/109/src/Client3/DirectX/Effect.h
+END
+DXC_dinput.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hblegion_hblegion/!svn/ver/326/src/Client3/DirectX/DXC_dinput.cpp
+END
+DSound.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hblegion_hblegion/!svn/ver/194/src/Client3/DirectX/DSound.h
+END
+Mydib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hblegion_hblegion/!svn/ver/374/src/Client3/DirectX/Mydib.cpp
+END
+DXC_ddraw.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hblegion_hblegion/!svn/ver/109/src/Client3/DirectX/DXC_ddraw.h
+END
+d3dtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hblegion_hblegion/!svn/ver/194/src/Client3/DirectX/d3dtypes.h
+END
+DXC_dinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hblegion_hblegion/!svn/ver/326/src/Client3/DirectX/DXC_dinput.h
+END
+DDraw.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hblegion_hblegion/!svn/ver/194/src/Client3/DirectX/DDraw.h
+END
+Sprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hblegion_hblegion/!svn/ver/797/src/Client3/DirectX/Sprite.cpp
+END
+DInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hblegion_hblegion/!svn/ver/109/src/Client3/DirectX/DInput.h
+END
+YWSound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hblegion_hblegion/!svn/ver/109/src/Client3/DirectX/YWSound.cpp
+END
+Mydib.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hblegion_hblegion/!svn/ver/109/src/Client3/DirectX/Mydib.h
+END
+SoundID.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hblegion_hblegion/!svn/ver/260/src/Client3/DirectX/SoundID.h
+END
+Sprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hblegion_hblegion/!svn/ver/733/src/Client3/DirectX/Sprite.h
+END
+YWSound.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hblegion_hblegion/!svn/ver/109/src/Client3/DirectX/YWSound.h
+END
+SoundBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hblegion_hblegion/!svn/ver/260/src/Client3/DirectX/SoundBuffer.cpp
+END
+TileSpr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hblegion_hblegion/!svn/ver/694/src/Client3/DirectX/TileSpr.cpp
+END
+SoundBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hblegion_hblegion/!svn/ver/260/src/Client3/DirectX/SoundBuffer.h
+END
+TileSpr.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hblegion_hblegion/!svn/ver/109/src/Client3/DirectX/TileSpr.h
+END
+SpriteID.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hblegion_hblegion/!svn/ver/854/src/Client3/DirectX/SpriteID.h
+END
+DXC_dsound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hblegion_hblegion/!svn/ver/109/src/Client3/DirectX/DXC_dsound.cpp
+END
+Effect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hblegion_hblegion/!svn/ver/109/src/Client3/DirectX/Effect.cpp
+END

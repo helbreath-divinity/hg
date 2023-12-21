@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hblegion_hblegion/!svn/ver/845/src/Client3/char
+END
+CharInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hblegion_hblegion/!svn/ver/109/src/Client3/char/CharInfo.h
+END
+Skill.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hblegion_hblegion/!svn/ver/109/src/Client3/char/Skill.cpp
+END
+ActionID.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hblegion_hblegion/!svn/ver/781/src/Client3/char/ActionID.h
+END
+Magic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hblegion_hblegion/!svn/ver/109/src/Client3/char/Magic.cpp
+END
+Curse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hblegion_hblegion/!svn/ver/109/src/Client3/char/Curse.cpp
+END
+Skill.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hblegion_hblegion/!svn/ver/194/src/Client3/char/Skill.h
+END
+Magic.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hblegion_hblegion/!svn/ver/508/src/Client3/char/Magic.h
+END
+Curse.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hblegion_hblegion/!svn/ver/109/src/Client3/char/Curse.h
+END
+CharInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hblegion_hblegion/!svn/ver/109/src/Client3/char/CharInfo.cpp
+END
+DynamicObjectID.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hblegion_hblegion/!svn/ver/718/src/Client3/char/DynamicObjectID.h
+END

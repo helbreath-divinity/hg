@@ -1,0 +1,5 @@
+xsd-include
+
+in hg vc++ directories.
+Include Directories.
+add xsd-include location... for both debug an relase config.
